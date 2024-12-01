@@ -1,8 +1,6 @@
 .container{
-
   width: 300px;
-  /* background-color: lightblue; */
-background-color: lightblue;
+  background-color: lightblue;
   border: 15px solid blue;
   padding: 50px;
   margin: 20px;
